@@ -1,0 +1,32 @@
+Filesystem              Size  Used Avail Use% Mounted on
+/dev/block/dm-6         1.1G  1.1G     0 100% /
+tmpfs                   914M  1.9M  913M   1% /dev
+tmpfs                   914M     0  914M   0% /mnt
+tmpfs                   914M     0  914M   0% /apex
+/dev/block/dm-5          25M   28K   24M   1% /patch_hw
+/dev/block/dm-7          50M   50M     0 100% /cust
+/dev/block/dm-8         751M  751M     0 100% /hw_product
+/dev/block/dm-9          24M   24M     0 100% /odm
+/dev/block/dm-10         41M   41M     0 100% /preas
+/dev/block/dm-11        4.0K  4.0K     0 100% /preavs
+/dev/block/dm-12        312M  312M     0 100% /preload
+/dev/block/dm-13        105M  105M     0 100% /vendor
+/dev/block/dm-14        4.0K  4.0K     0 100% /version
+none                    914M     0  914M   0% /mnt/update_engine
+/dev/block/mmcblk0p55    10G  8.1G  1.3G  87% /data
+/dev/block/mmcblk0p22    97M  116K   89M   1% /cache
+overlay                  41M   41M     0 100% /system/product/priv-app
+overlay                  41M   41M     0 100% /system/product/app
+overlay                  41M   41M     0 100% /system/product/etc/permissions
+/dev/block/loop2        232K   36K  192K  16% /apex/com.android.apex.cts.shim@1
+/dev/block/loop3        2.3M  2.3M     0 100% /apex/com.android.conscrypt@291601510
+/dev/block/loop4        3.9M  3.9M     0 100% /apex/com.android.media@291601580
+/dev/block/loop5         17M   17M     0 100% /apex/com.android.media.swcodec@291601591
+/dev/block/loop6        1.2M  1.2M  8.0K 100% /apex/com.android.resolv@291601592
+/dev/block/loop7         62M   62M     0 100% /apex/com.android.runtime@1
+/dev/block/loop8        840K  812K   12K  99% /apex/com.android.tzdata@291601530
+/data/media             9.4G  8.1G  1.3G  87% /storage/emulated
+/mnt/media_rw/9519-BFEF  58G  3.6M   58G   1% /storage/9519-BFEF
+private mounted null
+public:179:129 mounted 9519-BFEF
+emulated mounted null
